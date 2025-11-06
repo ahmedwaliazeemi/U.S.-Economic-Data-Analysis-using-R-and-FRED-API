@@ -18,10 +18,10 @@ Economic Interpretation: Provides statistical evidence that inflation (CPI) had 
 
 # 🛠️ Technology Stack
 
-# Core Language
+<h2> Core Language </h2>
 Language: R
 
-# Data & Analysis Packages
+<h2> Data & Analysis Packages </h2>
 API Connection: fredr
 Manipulation: tidyverse
 Modeling: stats (lm function)
